@@ -9,6 +9,6 @@
 
 // location
 #define LATITUDE "0"
-#define LATITUDE "0"
+#define LONGITUDE "0"
 
 #endif
