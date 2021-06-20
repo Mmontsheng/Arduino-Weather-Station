@@ -20,8 +20,8 @@ const char pass[] = WIFI_PASSWORD;
 const String API_KEY = OPENWEATHERMAP_API_KEY;
 
 //the location you want the weather for
-const String MY_LAT = "-25.751626244764665";
-const String MY_LON = "28.20914355288296";
+const String MY_LAT = LATITUDE;
+const String MY_LON = LONGITUDE;
 
 int weather = 0;
 
